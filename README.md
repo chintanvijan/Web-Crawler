@@ -15,3 +15,6 @@ OUTPUT:
 
 Logs of code execution can be seen in log.txt file.
   
+  main1.py includes code which can crawl a website in background itself without showing further steps to the program.
+        To execute main1.py,write following code in cmd after reaching to the path of main1.py:
+                        python main1.py "url of website"
