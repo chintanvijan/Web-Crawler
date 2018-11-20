@@ -1,0 +1,1 @@
+#logs for the main.py file are stored here, previous logs gets diminished whenever new logs are encountered with re execution of program.
